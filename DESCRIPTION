@@ -45,6 +45,6 @@ Imports:
 	synthdid (>= 0.0.9),
 	plm (>= 2.6.3),
 	MASS,
-	MedBounds (>= 0.1.0),
+	TestMechs (>= 0.1.0),
 	foreach (>= 1.5.2)
 VignetteBuilder: knitr
